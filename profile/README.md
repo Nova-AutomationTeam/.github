@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Nova Automation Banner" width="100%">
+  <img src="./assets/nova_banner.png" alt="Nova Automation Banner" width="100%">
 </p>
 
 <h1 align="center">Nova Automation</h1>
