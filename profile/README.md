@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Nova-AutomationTeam/.github/blob/main/profile/assets/nova_banner.png" alt="Nova Automation Banner" width="100%">
+  <img src="https://github.com/Nova-AutomationTeam/.github/blob/main/profile/nova_banner.png" alt="Nova Automation Banner" width="100%">
 </p>
 
 <h1 align="center">Nova Automation</h1>
